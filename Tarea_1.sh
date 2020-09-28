@@ -16,4 +16,4 @@ x='Hola'
 urlfinal=${url}${x}
 
 echo $urlfinal
-#curl --request GET --url $url
+#curl --request GET --url $url Amo a mi novia
