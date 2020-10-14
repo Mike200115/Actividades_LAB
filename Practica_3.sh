@@ -14,7 +14,7 @@ do
     curl -X POST https://www.virustotal.com/vtapi/v2/file/scan -F apikey=$api -F file=$Direccion_analizar/$Archivo >> json.txt 
     grep -i 'Scan request successfully queued, come back later for the report' json.txt > /dev/null 2>&1
     [ $? -eq 1 ] && {
-        echo "Amenaza detectada $ArchivoS"
+        echo "Amenaza detectada $Archivo"
         Direccion_archivo=$Direccion_analizar/$Archivo
         mv $Direccion_archivo $Direccion_maliciosa
     }
