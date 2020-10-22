@@ -1,0 +1,25 @@
+Pasos para subir modificaciones:
+1.-Dar clic derecho a la carpeta de CarSystem y selecionar la opcion git bash here
+2.-ya abierto en la linea de comandos
+3.-escribir "git status"
+4.-aparacera en rojo los cambios que hice en el archivo
+5.-escribir "git add ."
+6.-aparecera el mismo texto que aparecio en rojo , solo que ahora en verde
+7.-escribir "git commit -m "Comentario de los cambios que realice""
+8.-escribir "git push origin master" #para subir los cambios al servidor
+
+Pasos para abrir modificaciones:
+1.-Dar clic derecho a la carpeta de Actividades_LAB y selecionar la opcion git bash here
+2.-ya abierto en la linea de comandos
+3.-escribir "git pull"
+4.-cerrar la linea de comandos y abrir normalmente la solucion del programa 
+
+
+En caso de que no se carguen las actualizaciones, debes de 
+1.-borrar la carpeta 
+2.-seleccionar en la parte blanca de carpeta y dar clic derecho
+3.-dar clic en la opcion "git bash here"
+4.-cuando este abierta la consela para linea de comandos , debes de escribir lo siguiente : 
+"https://github.com/Mike200115/Actividades_LAB.git"
+5.-esperar a que cargue y ya quedara listo
+
