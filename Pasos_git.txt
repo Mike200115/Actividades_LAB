@@ -11,7 +11,7 @@ Pasos para subir modificaciones:
 Pasos para abrir modificaciones:
 1.-Dar clic derecho a la carpeta de Actividades_LAB y selecionar la opcion git bash here
 2.-ya abierto en la linea de comandos
-3.-escribir "git pull"
+3.-escribir "git pull origin master"
 4.-cerrar la linea de comandos y abrir normalmente la solucion del programa 
 
 
