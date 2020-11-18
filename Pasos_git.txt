@@ -21,5 +21,5 @@ En caso de que no se carguen las actualizaciones, debes de
 3.-dar clic en la opcion "git bash here"
 4.-cuando este abierta la consela para linea de comandos , debes de escribir lo siguiente : 
 "https://github.com/Mike200115/Actividades_LAB.git"
-5.-esperar a que cargue y ya quedara listo
+5.-esperar a que cargue y ya quedara listo...........
 
