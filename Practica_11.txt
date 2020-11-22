@@ -1,0 +1,281 @@
+
+Configuraci¢n IP de Windows
+
+    array811.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array811.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1491
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.137.110.235
+
+
+    fp-vp.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 56
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 56
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 56
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    array808.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array808.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1849
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.143.86.214
+
+
+    www.uanl.mx
+    ----------------------------------------
+    Nombre de registro  . : www.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2175
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.5.222
+
+
+    array807.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array807.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2259
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.143.84.45
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 92
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 92
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    amp.azure.net
+    ----------------------------------------
+    Nombre de registro  . : amp.azure.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 600
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : 160c1.wpc.azureedge.net
+
+
+    Nombre de registro  . : 160c1.wpc.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 600
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs22.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs22.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 600
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 152.199.4.33
+
+
+    deimos.dgi.uanl.mx
+    ----------------------------------------
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.225
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.228
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.236
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.239
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.237
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.226
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.238
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.13.235
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.227
+
+
+    Nombre de registro  . : deimos.dgi.uanl.mx
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1512
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 148.234.2.229
+
+
+    vscodeexperiments.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : vscodeexperiments.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 185
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : vscodeexperiments.ec.azureedge.net
+
+
+    Nombre de registro  . : vscodeexperiments.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 185
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 185
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    streamusea1su011.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : streamusea1su011.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 167
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : streamusea1su011.ec.azureedge.net
+
+
+    Nombre de registro  . : streamusea1su011.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 167
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 167
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2944
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2944
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2944
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2944
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
