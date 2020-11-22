@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+#Autor: Miguel Alejandro Juarez Gonzalez
+#script para hacer una peticion a un servidor ftp y descarga el archivo .msg
 RUTA_SERVIDOR_FTP = 'ftp.us.debian.org'
 import ftplib
 def conexion(serv, nom_usu, correo):
